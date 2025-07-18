@@ -1,13 +1,12 @@
-# Roji-Prajapati
 <h1 align="left">Hey 👋 I'm Roji Prajapati</h1>
 
 ###
 
-<p align="left">I'm a passionate computer science individual ready to learn.</p>
+<p align="left"></p>
 
 ###
 
-<h2 align="left">I am currently pursuing my undergraduate studies in computer engineering at Khwopa Engineering College.</h2>
+<h5 align="left">I am currently pursuing my undergraduate studies in computer engineering at Khwopa Engineering College.<br> I'm a passionate computer science individual ready to learn.</h5>
 
 ###
 
@@ -19,7 +18,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -36,4 +35,3 @@
 </div>
 
 ###
-
